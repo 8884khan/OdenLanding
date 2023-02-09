@@ -64,7 +64,7 @@ form{
     
 }
 form input{
-    padding: 8px;
+    padding: 9px;
     /* border: 2px solid black; */
     
     
@@ -103,7 +103,7 @@ footer ul li{
 
 
 .foot2{
-    margin:10px ;
+    margin:11px ;
     font-weight: bold;
  font-size: 20px;
   color:  rgb(128, 117, 117);
